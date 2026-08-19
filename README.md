@@ -1,2 +1,2 @@
-# DevOps-Doc
+# DevOps
 Notes for DEVOPS Tools

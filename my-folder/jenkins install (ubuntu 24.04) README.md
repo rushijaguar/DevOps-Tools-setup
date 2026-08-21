@@ -1,4 +1,5 @@
 EC2: ubuntu
+
 apt update -y
 
 apt install fontconfig openjdk-21-jre -y
